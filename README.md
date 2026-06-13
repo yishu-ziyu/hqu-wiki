@@ -1,6 +1,8 @@
 # 🎓 hqu-playbook
 
 > 华侨大学（HQU）求学经验沉淀 — 答辩 PPT 模板、论文格式规范，拿来即用。
+>
+> 所有 .pptx 和 .pdf 文件推荐用 **WPS** 打开（兼容性最好），.docx 同理。
 
 ---
 
@@ -28,11 +30,33 @@
 ### 使用方式
 
 1. 下载对应 .pptx 文件
-2. 打开 PowerPoint / WPS 编辑
+2. 用 **WPS** 打开编辑
 3. 替换占位文字：答辩人、指导教师、学院、日期等
 4. 填入自己的论文内容
 
 > 💡 建议先翻一遍全部 10 套，选一个风格最顺手的，然后专注修改那一套。
+
+---
+
+## 📄 论文格式模板
+
+所有文件已转为 PDF，直接用 WPS 打开即可参考或套用。支持格式刷。
+
+| 文件 | 说明 |
+|------|------|
+| `thesis-templates/pdf/cover-header-toc.pdf` | 封面 + 页眉 + 目录模板 |
+| `thesis-templates/pdf/thesis-cover-updated.pdf` | 电子版封面（更新版），填姓名学号即可 |
+| `thesis-templates/pdf/thesis-cover-international.pdf` | 境外生专用封面 |
+| `thesis-templates/pdf/hqu-econ-thesis-format.pdf` | 经济与金融学院论文格式模板 |
+| `thesis-templates/pdf/hqu-thesis-guidelines.pdf` | 华侨大学本科毕业论文撰写要求及格式规范 |
+| `thesis-templates/pdf/thesis-cover-print.jpg` | 印刷封皮（250g A3 铜版纸），打印店直接用 |
+| `thesis-templates/pdf/thesis-cover-print-intl.jpg` | 境外生印刷封皮 |
+
+### 使用方式
+
+1. 下载对应 PDF 文件
+2. 用 **WPS** 打开
+3. 参考格式，或用格式刷套用到自己的论文上
 
 ---
 
