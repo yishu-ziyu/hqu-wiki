@@ -44,13 +44,13 @@
 
 | 文件 | 说明 |
 |------|------|
-| `thesis-templates/pdf/cover-header-toc.pdf` | 封面 + 页眉 + 目录模板 |
-| `thesis-templates/pdf/thesis-cover-updated.pdf` | 电子版封面（更新版），填姓名学号即可 |
-| `thesis-templates/pdf/thesis-cover-international.pdf` | 境外生专用封面 |
-| `thesis-templates/pdf/hqu-econ-thesis-format.pdf` | 经济与金融学院论文格式模板 |
-| `thesis-templates/pdf/hqu-thesis-guidelines.pdf` | 华侨大学本科毕业论文撰写要求及格式规范 |
-| `thesis-templates/pdf/thesis-cover-print.jpg` | 印刷封皮（250g A3 铜版纸），打印店直接用 |
-| `thesis-templates/pdf/thesis-cover-print-intl.jpg` | 境外生印刷封皮 |
+| `thesis-templates/pdf/封面+页眉+目录.pdf` | 封面 + 页眉 + 目录模板 |
+| `thesis-templates/pdf/毕业论文封面（更新版）.pdf` | 电子版封面（更新版），填姓名学号即可 |
+| `thesis-templates/pdf/毕业论文封面（境外生版）.pdf` | 境外生专用封面 |
+| `thesis-templates/pdf/经济与金融学院论文格式模板.pdf` | 经济与金融学院论文格式模板 |
+| `thesis-templates/pdf/华侨大学本科毕业论文撰写要求及格式规范.pdf` | 学校官方格式规范 |
+| `thesis-templates/pdf/毕业论文封皮（印刷版）.jpg` | 印刷封皮（250g A3 铜版纸），打印店直接用 |
+| `thesis-templates/pdf/毕业论文封皮（境外生印刷版）.jpg` | 境外生印刷封皮 |
 
 ### 使用方式
 
