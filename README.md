@@ -60,6 +60,14 @@
 
 ---
 
+## 🛠️ 工具指南
+
+| 文件 | 说明 |
+|------|------|
+| `tools/stata-claude-code-guide.md` | Stata + Claude Code 实证研究集成指南：安装插件、执行命令、编写 do-file、查询文档 |
+
+---
+
 ## 🤝 贡献
 
 欢迎 Pull Request。模板如有更新或发现新的水印，提 Issue 或 PR 均可。
