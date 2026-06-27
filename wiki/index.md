@@ -25,6 +25,13 @@
 - [答辩 PPT 模板](templates/) — 10 套现成模板
 - [Stata + Claude Code 实证研究指南](tools/stata-claude-code-guide.md) — 把 Claude 当研究助手
 
+## 研究数据
+
+供课程论文、实证分析用的数据集：
+
+- [最低工资与专利创新](research-data/最低工资/README.md) — 美国 50 州面板，1968–2020，劳工部 + USPTO
+- [世界发展指标 WDI](research-data/世界发展指标/README.md) — 世界银行 1,400+ 指标，~200 国 × 1960–2018
+
 ## 资源聚合（爬虫产出）
 
 - [教务处通知归档](scraper/jwc.md) — 待爬
@@ -39,6 +46,7 @@
 
 1. **手动写 Markdown** — 直接 `wiki/manual/` 下加 `.md`，PR 进来
 2. **爬虫采数据** — `scraper/` 下写脚本，输出到 `wiki/scraper/`，原始数据存 `data/`（不提交）
+3. **补充研究数据** — 在 `wiki/research-data/` 下加数据集 + README 说明，大文件用 zip 打包
 
 任何内容不确定时，宁可写"待补 / 听说的"也别编。
 
