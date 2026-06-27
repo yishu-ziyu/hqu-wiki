@@ -1,0 +1,16 @@
+# 爬虫原始数据（不提交，避免污染仓）
+data/
+
+# 风格参考原文（不提交，按需手动放）
+reference/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
