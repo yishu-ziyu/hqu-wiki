@@ -29,8 +29,24 @@
 
 供课程论文、实证分析用的数据集：
 
-- [最低工资与专利创新](research-data/最低工资/README.md) — 美国 50 州面板，1968–2020，劳工部 + USPTO
-- [世界发展指标 WDI](research-data/世界发展指标/README.md) — 世界银行 1,400+ 指标，~200 国 × 1960–2018
+### 面板数据
+
+- [中国省级数据库（1990–2023）](research-data/中国省级数据库_1990-2023/README.md) — 31 省 3,222 个指标
+- [中国城市数据库 6.0 版](research-data/中国城市数据库_6.0版/README.md) — 地级市综合面板
+- [各省劳动力市场分割（2000–2024）](research-data/劳动力市场分割_省级_2000-2024/README.md) — 省级分割指数
+- [全国各城市、区县最低工资（2001–2022）](research-data/最低工资_城市区县级_2001-2022/README.md) — 城市/区县面板
+- [工业机器人安装密度（2006–2023）](research-data/工业机器人安装密度_2006-2023/README.md) — 地级市面板
+- [上市公司工业机器人渗透度（2007–2022）](research-data/工业机器人渗透度_上市公司_2007-2022/README.md) — A 股上市公司
+
+### 国际数据
+
+- [世界发展指标 WDI](research-data/世界发展指标/README.md) — 世界银行 ~200 国 × 1,400+ 指标
+
+### 微观调查数据
+
+- [CFPS 2020](research-data/CFPS_2020/README.md) — 北京大学第 5 轮追踪调查
+- [CFPS 2022](research-data/CFPS_2022/README.md) — 北京大学追踪调查
+- [CGSS 2018](research-data/CGSS_2018/README.md) — 中国人民大学综合社会调查
 
 ## 资源聚合（爬虫产出）
 
